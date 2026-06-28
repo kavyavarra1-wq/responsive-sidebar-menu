@@ -15,6 +15,10 @@ A responsive sidebar navigation menu built using HTML and CSS.
 - HTML5
 - CSS3
 
+## 🌐 Live Demo
+
+[View Live Project](https://kavyavarra1-wq.github.io/responsive-sidebar-menu/)
+
 ## Author
 
 Kavya
